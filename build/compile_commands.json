@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/steffen/EmbeddedHausarbeit/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/steffen/EmbeddedHausarbeit/src/../include  -pthread -g -o CMakeFiles/InvertedPendulum.dir/src/main.cpp.o -c /home/steffen/EmbeddedHausarbeit/src/main.cpp",
+  "file": "/home/steffen/EmbeddedHausarbeit/src/main.cpp"
+},
+{
+  "directory": "/home/steffen/EmbeddedHausarbeit/build/src",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/steffen/EmbeddedHausarbeit/src/../include -g -o CMakeFiles/controller_lib.dir/controller.cpp.o -c /home/steffen/EmbeddedHausarbeit/src/controller.cpp",
+  "file": "/home/steffen/EmbeddedHausarbeit/src/controller.cpp"
+}
+]

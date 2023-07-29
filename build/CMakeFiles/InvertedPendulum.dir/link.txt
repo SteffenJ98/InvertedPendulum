@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-g++  -pthread -g -rdynamic CMakeFiles/InvertedPendulum.dir/src/main.cpp.o -o InvertedPendulum  -Wl,-rpath,/usr/local/lib /usr/local/lib/libwiringPi.so src/libcontroller_lib.a -li2c -lMPU6050 

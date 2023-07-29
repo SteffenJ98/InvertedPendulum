@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/controller.h
+
+/home/steffen/EmbeddedHausarbeit/src/main.cpp
+iostream
+-
+cmath
+-
+thread
+-
+chrono
+-
+fstream
+-
+vector
+-
+wiringPi.h
+-
+MPU6050.h
+/home/steffen/EmbeddedHausarbeit/src/MPU6050.h
+controller.h
+/home/steffen/EmbeddedHausarbeit/src/controller.h
+

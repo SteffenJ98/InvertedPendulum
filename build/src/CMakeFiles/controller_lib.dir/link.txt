@@ -1,0 +1,2 @@
+/usr/bin/arm-linux-gnueabihf-ar qc libcontroller_lib.a CMakeFiles/controller_lib.dir/controller.cpp.o
+/usr/bin/arm-linux-gnueabihf-ranlib libcontroller_lib.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-linux-gnueabihf-ar qc libReglerTask.a CMakeFiles/ReglerTask.dir/ReglerTask.cpp.o
+/usr/bin/arm-linux-gnueabihf-ranlib libReglerTask.a
