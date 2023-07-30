@@ -33,6 +33,7 @@
 #define DIRECTION_CW_PIN 22   //CW
 #define PWM_MAX_VALUE 1024
 #define RISE_UP_ANGLE 5
+//Compensation of random Sensor-Kicks
 #define SATURATION_GYRO 0.4
 
 #define PI 3.1415
